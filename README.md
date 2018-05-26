@@ -1,2 +1,2 @@
 # Programming-Logic-Array
-C++ program to implement PLA
+C++ and Python3 program to implement PLA
